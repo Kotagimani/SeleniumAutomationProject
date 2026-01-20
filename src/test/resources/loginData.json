@@ -1,0 +1,9 @@
+{
+  "validUser": {
+    "username": "John Doe",
+    "password": "ThisIsNotAPassword",
+    "role": "PATIENT",
+    "environment": "QA",
+    "rememberMe": true
+  }
+}
